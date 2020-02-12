@@ -1,5 +1,10 @@
-alert("This is an alert message.")
 
+
+
+
+
+
+alert("This is an alert message.")
 // Add DOM selectors to target input and UL movie list
 
 var inp = document.querySelector("input");
