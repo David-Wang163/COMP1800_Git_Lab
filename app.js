@@ -1,6 +1,8 @@
 // This is a comment for an issue
 
 // Add DOM selectors to target input and UL movie list
+alert("This is an alert message.")
+
 var inp = document.querySelector("input");
 var myMovieList = document.querySelector("ul");
 
